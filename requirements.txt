@@ -1,2 +1,2 @@
-seleniumwire
+selenium-wire
 selenium
